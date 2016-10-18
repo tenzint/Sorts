@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.text.*;
 
-
+//
 public class Solution {
     static double array[];
     static void printA(){
